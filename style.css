@@ -33,3 +33,6 @@ section{
     margin-top: 10px;
     display: inline-block;
 }
+.dream-banner::after{
+    content: url(images/dream-bg.png);
+}
